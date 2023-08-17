@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ttechlynq/ReservationApp.git/static/css/main.073c9b0a.css",
+    "main.js": "/ttechlynq/ReservationApp.git/static/js/main.cf71ffd4.js",
+    "static/js/787.d16f1522.chunk.js": "/ttechlynq/ReservationApp.git/static/js/787.d16f1522.chunk.js",
+    "index.html": "/ttechlynq/ReservationApp.git/index.html",
+    "main.073c9b0a.css.map": "/ttechlynq/ReservationApp.git/static/css/main.073c9b0a.css.map",
+    "main.cf71ffd4.js.map": "/ttechlynq/ReservationApp.git/static/js/main.cf71ffd4.js.map",
+    "787.d16f1522.chunk.js.map": "/ttechlynq/ReservationApp.git/static/js/787.d16f1522.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cf71ffd4.js"
+  ]
+}
